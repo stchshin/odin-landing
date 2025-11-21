@@ -184,3 +184,13 @@ h2 {
     border-width: 2px;
     border-color: white;
 }
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    font-size: 20px;
+}
